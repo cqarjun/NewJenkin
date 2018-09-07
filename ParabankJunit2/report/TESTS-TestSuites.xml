@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="Ideabytes-06-PC" id="0" name="CQTestSuite" package="CQGenerated" skipped="0" tests="2" time="17.85" timestamp="2018-09-05T12:38:01">
+  <testsuite errors="0" failures="0" hostname="Ideabytes-06-PC" id="0" name="CQTestSuite" package="CQGenerated" skipped="0" tests="2" time="21.208" timestamp="2018-09-07T05:58:19">
       <properties>
           <property name="ant.project.invoked-targets" value="run-single-test" />
 
@@ -36,13 +36,13 @@
 
           <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
 
-          <property name="user.dir" value="C:\Users\Ideabytes-06\eclipse-workspace\ParabankJunit2" />
+          <property name="user.dir" value="C:\Users\Ideabytes-06\Documents\GitHub\NewJenkin\ParabankJunit2" />
 
           <property name="java.runtime.version" value="1.8.0_172-b11" />
 
           <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
 
-          <property name="basedir" value="C:\Users\Ideabytes-06\eclipse-workspace\ParabankJunit2\src" />
+          <property name="basedir" value="C:\Users\Ideabytes-06\Documents\GitHub\NewJenkin\ParabankJunit2\src" />
 
           <property name="RELEASE_ROOT" value=".." />
 
@@ -80,7 +80,7 @@
 
           <property name="os.version" value="6.1" />
 
-          <property name="ant.file" value="C:\Users\Ideabytes-06\eclipse-workspace\ParabankJunit2\src\Copyofbuild.xml" />
+          <property name="ant.file" value="C:\Users\Ideabytes-06\Documents\GitHub\NewJenkin\ParabankJunit2\src\Copyofbuild.xml" />
 
           <property name="user.home" value="C:\Windows\system32\config\systemprofile" />
 
@@ -96,7 +96,7 @@
 
           <property name="user.name" value="IDEABYTES-06-PC$" />
 
-          <property name="ant.file.ParabankJunit" value="C:\Users\Ideabytes-06\eclipse-workspace\ParabankJunit2\src\Copyofbuild.xml" />
+          <property name="ant.file.ParabankJunit" value="C:\Users\Ideabytes-06\Documents\GitHub\NewJenkin\ParabankJunit2\src\Copyofbuild.xml" />
 
           <property name="LIB" value="../lib" />
 
@@ -106,7 +106,7 @@
 
           <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_172\jre" />
 
-          <property name="sun.java.command" value="org.apache.tools.ant.launch.Launcher -buildfile C:\Users\Ideabytes-06\eclipse-workspace\ParabankJunit2\src\Copyofbuild.xml run-single-test" />
+          <property name="sun.java.command" value="org.apache.tools.ant.launch.Launcher -buildfile C:\Users\Ideabytes-06\Documents\GitHub\NewJenkin\ParabankJunit2\src\Copyofbuild.xml run-single-test" />
 
           <property name="sun.arch.data.model" value="64" />
 
@@ -146,9 +146,9 @@
 
       </properties>
 
-      <testcase classname="CQGenerated.testsuite.TestCase1" name="test" time="8.905" />
+      <testcase classname="CQGenerated.testsuite.TestCase1" name="test" time="9.657" />
 
-      <testcase classname="CQGenerated.testsuite.TestCase7" name="test" time="8.915" />
+      <testcase classname="CQGenerated.testsuite.TestCase7" name="test" time="11.519" />
 
       <system-out><![CDATA[dfcbgkj
 Setup: Invalid Login when user enters username which does not exist
@@ -172,9 +172,9 @@ Executing test step 8
 TearDown: Forgot Password
 ]]></system-out>
 
-      <system-err><![CDATA[Starting ChromeDriver 2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91) on port 39194
+      <system-err><![CDATA[Starting ChromeDriver 2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91) on port 7564
 Only local connections are allowed.
-Starting ChromeDriver 2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91) on port 18346
+Starting ChromeDriver 2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91) on port 47555
 Only local connections are allowed.
 ]]></system-err>
 
