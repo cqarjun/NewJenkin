@@ -1,1 +1,1 @@
-ant -buildfile C:\Users\Ideabytes-06\eclipse-workspace\ParabankJunit2\src\Copyofbuild.xml run-single-test
+ant -buildfile C:\Users\Ideabytes-06\Documents\GitHub\NewJenkin\ParabankJunit2\src\Copyofbuild.xml run-single-test
