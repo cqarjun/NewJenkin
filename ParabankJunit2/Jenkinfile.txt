@@ -4,12 +4,12 @@ pipeline {
   stages {
     stage('myStage'){
       steps {
-        bat 'C:\Users\Ideabytes-06\Documents\GitHub\NewJenkin\ParabankJunit2\run.bat'
+        bat 'dir'
       }
     }
     stage('Build') {
       steps { 
-        bat 'C:\Users\Ideabytes-06\Documents\GitHub\NewJenkin\ParabankJunit2\run.bat'
+        bat 'dir'
       }
     }
   }
